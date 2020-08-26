@@ -22,7 +22,7 @@ export default {
     return {
       actions: ["Go to the shop", "Go for a walk", "Make a coffe"],
       ac: 'фваіва'
-    
+      
       };
   },
   components: {
