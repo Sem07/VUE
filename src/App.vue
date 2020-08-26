@@ -21,7 +21,8 @@ export default {
   data() {
     return {
       actions: ["Go to the shop", "Go for a walk", "Make a coffe"],
-      ac: ''
+      ac: 'фваіва'
+    
       };
   },
   components: {
